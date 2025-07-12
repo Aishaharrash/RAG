@@ -2,6 +2,7 @@ flask
 transformers
 sentence-transformers
 torch
-numpy
-nltk
 faiss-cpu
+nltk
+python-dotenv
+numpy
