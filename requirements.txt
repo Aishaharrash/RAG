@@ -1,8 +1,5 @@
 flask
-transformers
-sentence-transformers
-torch
-faiss-cpu
-nltk
 python-dotenv
-numpy
+transformers
+torch
+sentence-transformers
